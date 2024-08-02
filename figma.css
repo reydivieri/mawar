@@ -1,0 +1,161 @@
+
+
+body{
+    /* Tampilan awal */
+
+position: relative;
+width: 376px;
+height: 812px;
+
+background: #FFFFFF;
+
+position: static;
+width: 157px;
+height: 56px;
+left: 12px;
+top: 244px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+/* Absolute/Static/White - S */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 16px 0px;
+
+position: static;
+width: 173px;
+height: 28px;
+left: 12px;
+top: 316px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+/* Absolute/Static/White - S */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+
+position: static;
+width: 117px;
+height: 35px;
+left: 12px;
+top: 360px;
+
+/* Absolute/Static/White - S */
+background: #FFFFFF;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 16px 0px;
+
+position: static;
+width: 81px;
+height: 19px;
+left: 8px;
+top: 8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+
+/* Oil/11 */
+color: #0D0D0D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 4px;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 12px;
+
+position: absolute;
+height: 639px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+/* Primary Color */
+background: #E54660;
+border-radius: 15px;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 12px;
+
+position: absolute;
+width: 134px;
+height: 68px;
+left: 28px;
+top: 680px;
+
+border: 1px solid #E54660;
+box-sizing: border-box;
+filter: drop-shadow(0px 1px 8px rgba(229, 70, 96, 0.08));
+border-radius: 12px;
+
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 12px;
+
+position: absolute;
+width: 134px;
+height: 68px;
+left: 213px;
+top: 680px;
+
+/* Primary Color */
+background: #E54660;
+box-shadow: 0px 1px 8px rgba(229, 70, 96, 0.08);
+border-radius: 12px;
+background: #E5E5E5;
+position: absolute;
+width: 115px;
+height: 5px;
+
+/* Oil/5 #B4B4B4 */
+background: #B4B4B4;
+}
